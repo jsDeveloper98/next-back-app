@@ -1,4 +1,4 @@
-import Validator from "../services/Validator";
+import Validator from "../services/Validator.service";
 
 export const validateRegister = () => {
   return [
